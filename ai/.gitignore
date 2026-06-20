@@ -20,4 +20,3 @@ dist-ssr
 .idea
 .DS_Store
 *.sw?
-.vercel
